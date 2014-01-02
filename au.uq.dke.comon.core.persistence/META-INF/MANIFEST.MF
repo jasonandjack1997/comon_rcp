@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Bundle-ManifestVersion: 2
+Bundle-Name: Persistence
+Bundle-SymbolicName: au.uq.dke.comon.core.persistence
+Bundle-Version: 1.0.0.qualifier
+Bundle-Activator: au.uq.dke.comon.core.persistence.Activator
+Require-Bundle: org.eclipse.core.runtime,
+ au.uq.dke.comon.core;bundle-version="1.0.0"
+Bundle-RequiredExecutionEnvironment: JavaSE-1.7
+Bundle-ActivationPolicy: lazy

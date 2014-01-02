@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry exported="true" kind="lib" path="lib/ca.uvic.cs.chisel.cajun.jar"/>
+	<classpathentry exported="true" kind="lib" path="lib/draw2d-3.2.100-v20070529.jar"/>
+	<classpathentry exported="true" kind="lib" path="lib/junit.jar"/>
+	<classpathentry exported="true" kind="lib" path="lib/layouts.jar"/>
+	<classpathentry exported="true" kind="lib" path="lib/log4j.jar"/>
+	<classpathentry exported="true" kind="lib" path="lib/looks.jar"/>
+	<classpathentry exported="true" kind="lib" path="lib/org.apache.felix.bundlerepository-1.4.2.jar"/>
+	<classpathentry exported="true" kind="lib" path="lib/org.apache.felix.configadmin.jar"/>
+	<classpathentry exported="true" kind="lib" path="lib/org.apache.felix.scr.jar"/>
+	<classpathentry exported="true" kind="lib" path="lib/org.coode.dlquery.jar"/>
+	<classpathentry exported="true" kind="lib" path="lib/org.coode.owlviz.jar"/>
+	<classpathentry exported="true" kind="lib" path="lib/org.eclipse.draw2d_3.2.100.v20070522.jar"/>
+	<classpathentry exported="true" kind="lib" path="lib/org.eclipse.equinox.common.jar"/>
+	<classpathentry exported="true" kind="lib" path="lib/org.eclipse.equinox.registry.jar"/>
+	<classpathentry exported="true" kind="lib" path="lib/org.eclipse.equinox.supplement.jar"/>
+	<classpathentry exported="true" kind="lib" path="lib/org.hamcrest.core_1.3.0.v201303031735.jar"/>
+	<classpathentry exported="true" kind="lib" path="lib/org.protege.common.jar"/>
+	<classpathentry exported="true" kind="lib" path="lib/org.protege.editor.core.application.jar"/>
+	<classpathentry exported="true" kind="lib" path="lib/org.protege.editor.owl.codegeneration.jar"/>
+	<classpathentry exported="true" kind="lib" path="lib/org.protege.editor.owl.diff.jar"/>
+	<classpathentry exported="true" kind="lib" path="lib/org.protege.editor.owl.jar"/>
+	<classpathentry exported="true" kind="lib" path="lib/org.protege.editor.owl.rdf.jar"/>
+	<classpathentry exported="true" kind="lib" path="lib/org.protege.explanation.jar"/>
+	<classpathentry exported="true" kind="lib" path="lib/org.protege.jaxb.jar"/>
+	<classpathentry exported="true" kind="lib" path="lib/org.protege.ontograf.jar"/>
+	<classpathentry exported="true" kind="lib" path="lib/org.protege.owl.diff.jar"/>
+	<classpathentry exported="true" kind="lib" path="lib/org.protege.owl.rdf.jar"/>
+	<classpathentry exported="true" kind="lib" path="lib/org.semanticweb.HermiT.jar"/>
+	<classpathentry exported="true" kind="lib" path="lib/org.semanticweb.owl.owlapi.jar"/>
+	<classpathentry exported="true" kind="lib" path="lib/piccolo2d-core-1.3.1.jar"/>
+	<classpathentry exported="true" kind="lib" path="lib/piccolo2d-extras-1.3.1.jar"/>
+	<classpathentry exported="true" kind="lib" path="lib/piccolo2d-swt-1.3.1.jar"/>
+	<classpathentry exported="true" kind="lib" path="lib/protege-owlapi-extensions.jar"/>
+	<classpathentry exported="true" kind="lib" path="lib/uk.ac.manchester.cs.owl.factplusplus.jar"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.7"/>
+	<classpathentry kind="con" path="org.eclipse.pde.core.requiredPlugins"/>
+	<classpathentry kind="src" path="src/"/>
+	<classpathentry kind="output" path="target/classes"/>
+</classpath>
