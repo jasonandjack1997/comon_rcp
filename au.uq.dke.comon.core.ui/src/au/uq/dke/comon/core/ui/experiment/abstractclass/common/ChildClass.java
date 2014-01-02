@@ -1,4 +1,4 @@
-package au.uq.dke.comon.core.ui.experiment;
+package au.uq.dke.comon.core.ui.experiment.abstractclass.common;
 
 public class ChildClass extends AbstractClass{
 
