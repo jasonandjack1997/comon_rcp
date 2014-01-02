@@ -5,7 +5,7 @@
   <packaging>eclipse-test-plugin</packaging>
   <parent>
   	<groupId>au.uq.dke</groupId>
-  	<artifactId>.comon.parent</artifactId>
+  	<artifactId>comon.parent</artifactId>
   	<version>1.0.0.qualifier</version>
   	<relativePath>../au.uq.dke..comon.parent</relativePath>
   </parent>
