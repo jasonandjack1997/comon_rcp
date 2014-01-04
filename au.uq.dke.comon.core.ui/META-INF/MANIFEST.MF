@@ -6,9 +6,8 @@ Bundle-Version: 1.0.0.qualifier
 Bundle-Activator: au.uq.dke.comon.core.ui.Activator
 Require-Bundle: org.eclipse.ui,
  org.eclipse.core.runtime,
- au.uq.dke.comon.core;bundle-version="1.0.0",
- au.uq.dke.comon.thirdparty;bundle-version="1.0.0",
- au.uq.dke.comon.thirdparty
+ au.uq.dke.comon.thirdparty;bundle-version="1.0.0"
 Bundle-RequiredExecutionEnvironment: JavaSE-1.7
 Bundle-ActivationPolicy: lazy
 Export-Package: au.uq.dke.comon.core.ui.model
+Import-Package: au.uq.dke.comon.core

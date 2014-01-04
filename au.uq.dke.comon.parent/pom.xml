@@ -40,14 +40,6 @@
 		</plugins>
 	</build>
 	<packaging>pom</packaging>
-	<modules>
-		<module>../au.uq.dke.comon.application</module>
-		<module>../au.uq.dke.comon.core</module>
-		<module>../au.uq.dke.comon.core.tests</module>
-		<module>../au.uq.dke.comon.core.ui</module>
-
-		<module>../au.uq.dke.comon.core.persistence</module>
-	</modules>
 	<dependencyManagement>
 		<dependencies>
 			<dependency>
@@ -67,4 +59,12 @@
 		</dependency>
 		</dependencies>
 	</dependencyManagement>
+	<modules>
+		<module>../au.uq.dke.comon.application</module>
+		<module>../au.uq.dke.comon.core</module>
+		<module>../au.uq.dke.comon.core.persistence</module>
+		
+		
+		<module>../au.uq.dke.comon.thirdparty</module>
+	</modules>
 </project>

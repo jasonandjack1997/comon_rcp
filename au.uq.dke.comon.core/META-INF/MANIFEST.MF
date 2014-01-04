@@ -5,8 +5,7 @@ Bundle-SymbolicName: au.uq.dke.comon.core
 Bundle-Version: 1.0.0.qualifier
 Bundle-Activator: au.uq.dke.comon.core.Activator
 Require-Bundle: org.eclipse.ui,
- org.eclipse.core.runtime,
- au.uq.dke.comon.core.ui
+ org.eclipse.core.runtime
 Bundle-RequiredExecutionEnvironment: JavaSE-1.7
 Bundle-ActivationPolicy: lazy
 Export-Package: au.uq.dke.comon.core,
